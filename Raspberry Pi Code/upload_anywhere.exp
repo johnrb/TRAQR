@@ -1,0 +1,19 @@
+#!/usr/bin/expect -f
+
+set datafile [lindex $argv 0];
+set dest [lindex $argv 1];
+set port [lindex $argv 2];
+
+# connect via scp
+spawn scp -P $port $datafile $dest
+#######################
+expect {
+  -re ".*es.*o.*" {
+    exp_send "yes\r"
+    exp_continue
+  }
+  -re ".*sword.*" {
+    exp_send "Gracielo.15\r"
+  }
+}
+interact
