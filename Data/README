@@ -1,0 +1,5 @@
+Put recorded data files here that we want to save. 
+
+This directory is a git repository, which should periodically
+be pushed up to github, thus backing up our data on the proverbial
+cloud. 

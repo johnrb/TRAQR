@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.29066422745660675, 
+        "oz": 0.00045194086104496294, 
+        "temp": 19.0, 
+        "time": "20170219142150", 
+        "hum": 32.7, 
+        "vo": 0.006123695347083617, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.3149238963926884, 
+        "oz": 0.0004674066143824505, 
+        "temp": 19.0, 
+        "time": "20170219142212", 
+        "hum": 32.9, 
+        "vo": 0.006123695347083617, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.3019361810050939, 
+        "oz": 0.00037586601431366514, 
+        "temp": 19.1, 
+        "time": "20170219142228", 
+        "hum": 32.3, 
+        "vo": 0.006123695347083617, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.30391733608327237, 
+        "oz": 0.00042912765289107276, 
+        "temp": 19.6, 
+        "time": "20170219142244", 
+        "hum": 33.9, 
+        "vo": 0.00741888188164493, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.3159337393619667, 
+        "oz": 0.00042984936257580965, 
+        "temp": 20.1, 
+        "time": "20170219142307", 
+        "hum": 33.2, 
+        "vo": 0.009270232587415234, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.32304578160866154, 
+        "oz": 0.0004851275263017999, 
+        "temp": 20.1, 
+        "time": "20170219142328", 
+        "hum": 33.5, 
+        "vo": 0.011254591601564053, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.3343743554945711, 
+        "oz": 0.0005165575392228514, 
+        "temp": 20.7, 
+        "time": "20170219142347", 
+        "hum": 33.1, 
+        "vo": 0.01446283888610412, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.827445, 
+          41.563808333, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.33489371882463814, 
+        "oz": 0.0005288849405824117, 
+        "temp": 20.6, 
+        "time": "20170219142408", 
+        "hum": 33.0, 
+        "vo": 0.01446283888610412, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.827445, 
+          41.563808333, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.31846508795845674, 
+        "oz": 0.0004255331382821871, 
+        "temp": 21.0, 
+        "time": "20170219142419", 
+        "hum": 33.5, 
+        "vo": 0.015590678950892379, 
+        "pm": "none"
+      }
+    }
+  ]
+}

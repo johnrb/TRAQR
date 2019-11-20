@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 2.6198, 
+        "oz": 0.0183, 
+        "temp": 68.2, 
+        "time": "20170223144843", 
+        "hum": 44.2, 
+        "vo": 1.4122, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 2.7823, 
+        "oz": 0.027, 
+        "temp": 68.0, 
+        "time": "20170223144902", 
+        "hum": 44.1, 
+        "vo": 1.5422, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 2.3036, 
+        "oz": 0.0172, 
+        "temp": 68.5, 
+        "time": "20170223144917", 
+        "hum": 44.4, 
+        "vo": 1.3409, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 2.0143, 
+        "oz": 0.0164, 
+        "temp": 68.5, 
+        "time": "20170223144935", 
+        "hum": 43.7, 
+        "vo": 1.2225, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 1.9498, 
+        "oz": 0.0155, 
+        "temp": 68.9, 
+        "time": "20170223144951", 
+        "hum": 41.4, 
+        "vo": 1.2479, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 1.7242, 
+        "oz": 0.0146, 
+        "temp": 69.3, 
+        "time": "20170223145007", 
+        "hum": 40.3, 
+        "vo": 1.0958, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          "none", 
+          "none", 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 1.6857, 
+        "oz": 0.0153, 
+        "temp": 68.5, 
+        "time": "20170223145022", 
+        "hum": 38.7, 
+        "vo": 1.074, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.827, 
+          41.5645, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 1.6591, 
+        "oz": 0.0142, 
+        "temp": 67.3, 
+        "time": "20170223145038", 
+        "hum": 39.9, 
+        "vo": 1.0716, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82711, 
+          41.56441, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 1.6134, 
+        "oz": 0.0146, 
+        "temp": 67.1, 
+        "time": "20170223145051", 
+        "hum": 39.8, 
+        "vo": 1.0692, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82769, 
+          41.56425, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 1.5751, 
+        "oz": 0.0153, 
+        "temp": 66.9, 
+        "time": "20170223145101", 
+        "hum": 40.0, 
+        "vo": 1.0094, 
+        "pm": "none"
+      }
+    }
+  ]
+}
