@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82367, 
+          41.56488, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.838, 
+        "oz": 0.0054, 
+        "temp": 60.6, 
+        "time": "20170307145050", 
+        "hum": 28.9, 
+        "vo": 0.566, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82382, 
+          41.56486, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.8034, 
+        "oz": 0.0056, 
+        "temp": 60.8, 
+        "time": "20170307145102", 
+        "hum": 29.9, 
+        "vo": 0.5185, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.824, 
+          41.56481, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.768, 
+        "oz": 0.0045, 
+        "temp": 60.6, 
+        "time": "20170307145113", 
+        "hum": 29.7, 
+        "vo": 0.5355, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82411, 
+          41.56474, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.8098, 
+        "oz": 0.0047, 
+        "temp": 58.8, 
+        "time": "20170307145123", 
+        "hum": 30.3, 
+        "vo": 0.5507, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82431, 
+          41.56454, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.7884, 
+        "oz": 0.0045, 
+        "temp": 58.5, 
+        "time": "20170307145137", 
+        "hum": 30.7, 
+        "vo": 0.5167, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82453, 
+          41.56444, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.7472, 
+        "oz": 0.0045, 
+        "temp": 58.8, 
+        "time": "20170307145150", 
+        "hum": 30.8, 
+        "vo": 0.5185, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82474, 
+          41.56442, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.7273, 
+        "oz": 0.0042, 
+        "temp": 59.7, 
+        "time": "20170307145200", 
+        "hum": 31.2, 
+        "vo": 0.5317, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.825, 
+          41.56439, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.7441, 
+        "oz": 0.0049, 
+        "temp": 58.6, 
+        "time": "20170307145213", 
+        "hum": 30.8, 
+        "vo": 0.4816, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82524, 
+          41.56439, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.7456, 
+        "oz": 0.0045, 
+        "temp": 58.6, 
+        "time": "20170307145226", 
+        "hum": 31.0, 
+        "vo": 0.4852, 
+        "pm": "none"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -85.82551, 
+          41.56434, 
+          900
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "co": 0.7595, 
+        "oz": 0.0044, 
+        "temp": 57.9, 
+        "time": "20170307145240", 
+        "hum": 31.2, 
+        "vo": 0.4871, 
+        "pm": "none"
+      }
+    }
+  ]
+}
